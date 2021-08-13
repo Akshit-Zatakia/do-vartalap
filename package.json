@@ -9,7 +9,7 @@
     "start": "node src/index.js"
   },
   "author": "Akshit Zatakia",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "bad-words": "^3.0.4",
     "express": "^4.17.1",
